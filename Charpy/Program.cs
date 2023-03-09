@@ -1,6 +1,2 @@
-﻿int a = 5, b = 6;
-
-int sum = a + b;
-
-
-Console.WriteLine("The sum of two numbers is : , Sum(a, b));
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
