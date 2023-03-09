@@ -1,0 +1,15 @@
+C:\Users\adsirbu\source\repos\Charpy\Charpy\bin\Debug\net6.0\Charpy.exe
+C:\Users\adsirbu\source\repos\Charpy\Charpy\bin\Debug\net6.0\Charpy.deps.json
+C:\Users\adsirbu\source\repos\Charpy\Charpy\bin\Debug\net6.0\Charpy.runtimeconfig.json
+C:\Users\adsirbu\source\repos\Charpy\Charpy\bin\Debug\net6.0\Charpy.dll
+C:\Users\adsirbu\source\repos\Charpy\Charpy\bin\Debug\net6.0\Charpy.pdb
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.csproj.AssemblyReference.cache
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.AssemblyInfoInputs.cache
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.AssemblyInfo.cs
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.csproj.CoreCompileInputs.cache
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.dll
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\refint\Charpy.dll
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.pdb
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\Charpy.genruntimeconfig.cache
+C:\Users\adsirbu\source\repos\Charpy\Charpy\obj\Debug\net6.0\ref\Charpy.dll
