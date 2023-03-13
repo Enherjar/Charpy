@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adsirbu\\source\\repos\\Charpy\\Charpy\\Charpy.csproj",
+      "projectUniqueName": "C:\\Users\\adsirbu\\OneDrive - ENDAVA\\Documents\\GitHub\\Charpy\\Charpy\\Charpy.csproj",
       "projectName": "Charpy",
-      "projectPath": "C:\\Users\\adsirbu\\source\\repos\\Charpy\\Charpy\\Charpy.csproj",
+      "projectPath": "C:\\Users\\adsirbu\\OneDrive - ENDAVA\\Documents\\GitHub\\Charpy\\Charpy\\Charpy.csproj",
       "packagesPath": "C:\\Users\\adsirbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adsirbu\\source\\repos\\Charpy\\Charpy\\obj\\",
+      "outputPath": "C:\\Users\\adsirbu\\OneDrive - ENDAVA\\Documents\\GitHub\\Charpy\\Charpy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adsirbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
